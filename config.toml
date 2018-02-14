@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "primary.sc.tz"
+
+theme = "hyde"
